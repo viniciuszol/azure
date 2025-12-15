@@ -4,4 +4,4 @@ Aprendi bastante sobre redes no Azure, como funcionam as VNets, sub-redes, peeri
 
 Outra parte muito massa foi Storage. Hoje sei escolher entre Blob Storage, os tipos de redundância (LRS, GRS, etc.), as camadas Hot, Cool e Archive, além de usar SAS Token pra dar acesso temporário sem comprometer a segurança. Também vi como o Azure cuida da criptografia e do controle de acesso.
 
-No geral, o bootcamp tá sendo bem prático e abriu muito minha cabeça sobre arquitetura em nuvem. Já dá pra olhar um problema real e pensar: “isso aqui no Azure eu resolvo assim”. 🚀
+No geral, o bootcamp tá sendo bem prático e abriu muito minha cabeça sobre arquitetura em nuvem. Já dá pra olhar um problema real e pensar: isso aqui no Azure eu resolvo assim.
